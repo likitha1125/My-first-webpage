@@ -1,0 +1,24 @@
+*{
+    margin:25px;
+    padding:11px;
+}
+body{
+    background-color: rgb(229, 245, 246);
+}
+h1{
+    color: black;
+}
+
+#head1{
+    
+    text-align: centre;
+}
+
+p{
+    font-family: verdana;
+    font-size: 15px;
+    color: rgb(26, 97, 97);
+}
+h2{
+    
+}
